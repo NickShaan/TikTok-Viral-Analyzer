@@ -21,6 +21,7 @@ The focus is on simulating the workflow and producing structured JSON insights, 
 
 Project Structure
 -----------------
+```
 tiktok-viral-analyzer/
 │
 ├── backend/
@@ -31,7 +32,7 @@ tiktok-viral-analyzer/
 │
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Documentation
-
+```
 Workflow
 --------
 1. Backend (FastAPI)
